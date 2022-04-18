@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marianyfsilva
+- 👋 Hi, I’m @marianysilva
 - 👀 I’m interested in Data engineering and Data science  
 - 💞️ I’m collaborate on Sume LMS
 - 📫 How to reach me mariany.silva@trustedhelth.com or fsilvamariany@gmail.com
